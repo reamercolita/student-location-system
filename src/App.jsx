@@ -217,9 +217,7 @@ export default function App() {
 
             </div>
 
-            <span className="small text-slate-400">
-              Map data © OpenStreetMap contributors
-            </span>
+            
 
           </div>
 
@@ -242,13 +240,7 @@ export default function App() {
 
           <footer className="d-flex flex-column flex-sm-row align-items-center justify-content-between gap-2 py-4 text-slate-400 small">
 
-            <span>
-              Student Locator System
-            </span>
-
-            <span>
-              Built with React, Bootstrap, Tailwind CSS & Leaflet
-            </span>
+           
 
           </footer>
 
